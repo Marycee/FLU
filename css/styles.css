@@ -83,6 +83,10 @@ button{
     background-color:  rgb(87, 87, 223);
 }
 
+.btn2 {
+     background-color: #F8F8FF;
+}
+
 @media (max-width: 768px) {
     .container{
         grid-template-columns: 1fr;
