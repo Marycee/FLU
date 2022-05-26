@@ -4,7 +4,7 @@
 }
 
 body{
-    background: rgb(232, 222, 240);
+    background: rgb(227, 228, 232);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     display: flex;
     align-items: center;
@@ -48,11 +48,11 @@ body{
 }
 
 span{
-    color: rgb(107, 107, 156);
+    color: rgb(131, 149, 223);
 }
 
 .card-body{
-    background: rgb(197, 185, 207);
+    background: rgb(194, 199, 218);
     padding: 10px;
     border-radius: 10px 20px; 
     margin-top: 40px;
@@ -80,7 +80,7 @@ button{
 
 .btn1 {
     color: #fff;
-    background-color: rgb(77, 77, 149);
+    background-color: rgb(85, 85, 184);
 }
 
 @media (max-width: 768px) {
@@ -92,4 +92,3 @@ button{
     .card-header img{
         height: 250px;
     }
-}
