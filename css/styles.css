@@ -4,7 +4,7 @@
 }
 
 body{
-    background: lightBlue;
+    background: rgb(131, 149, 223);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     display: flex;
     align-items: center;
@@ -80,7 +80,7 @@ button{
 
 .btn1 {
     color: #fff;
-    background-color: steelblue;
+    background-color:  rgb(87, 87, 223);
 }
 
 @media (max-width: 768px) {
