@@ -85,6 +85,7 @@ button{
 
 .btn2 {
      background-color: #F8F8FF;
+     border-radius: 1px solid blue;
 }
 
 @media (max-width: 768px) {
